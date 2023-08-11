@@ -1,6 +1,6 @@
 <h3 align='left'> 👋 Hi, I'm Timur, a passionate software engineer from Kazakhstan 🇰🇿</h3>
 
-- 🔭 I’m currently pursuing my Master's degree at [University of Padova](https://www.unipd.it/)
+- 🔭 I’m currently pursuing my Master's degree at [University of Padova](https://www.unipd.it/) 🇮🇹
 - 📫 How to reach me: [telegram](https://t.me/ibelieveinpowersupremacy) or rakhishovt@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
