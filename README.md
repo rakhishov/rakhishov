@@ -1,6 +1,6 @@
 <h3 align='left'> 👋 Hi, I'm Timur, a software engineer from Kazakhstan 🇰🇿</h3>
 
-- 📫 How to reach me: [telegram](https://t.me/ibelieveinpowersupremacy) or rakhishovt@gmail.com.
+- 📫 How to reach me: [telegram](https://t.me/rakhishov) or rakhishovt@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
